@@ -118,6 +118,24 @@ header, .container{
     text-align: right;
 }
 
+/* feautured section style */
+.featured-item{
+    display: flex;
+    
+}
+.featured-item-image-part img{
+    width: 375px;
+    height: 275px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+}
+.featured-item-details-part{
+    width: 375px;
+    height: 275px;
+    padding: 10px;
+
+}
+
 /* footer style */
 footer{
     background: #0A0826;
