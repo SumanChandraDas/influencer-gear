@@ -103,3 +103,42 @@ header, .container{
 .collection-detail{
     margin: 0px;
 }
+
+/* see more button style */
+.see-more-button a{
+    color: #E02C6D;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+
+}
+.see-more-button{
+    
+    text-align: right;
+}
+
+/* footer style */
+footer{
+    background: #0A0826;
+}
+.footer-items{
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+}
+.footer-items h3{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+.fa-instagram{
+    color: #FFFFFF;
+}
+.fa-twitter{
+    color: #FFFFFF;
+}
+.fa-youtube{
+    color: #FFFFFF;
+}
+
